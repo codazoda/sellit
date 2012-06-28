@@ -2,7 +2,7 @@
 <html>
 <head>
     <title>Your Name Here</title>
-    <link rel="stylesheet" type="text/css" href="style.css">
+    <link rel="stylesheet" type="text/css" href="view/css/style.css">
 	<link rel="stylesheet" type="text/css" href="jquery/colorbox/colorbox.css">
 	<script type="text/javascript" src="jquery/jquery-1.7.2.min.js"></script>
 	<script type="text/javascript" src="jquery/colorbox/jquery.colorbox-min.js"></script>

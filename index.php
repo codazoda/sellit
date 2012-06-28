@@ -17,7 +17,7 @@
 	$items = loadItems($categories, $cat);
 
 	// Include the HTML view
-	include 'view.php';
+	include 'view/index.php';
 
 
 	/**
