@@ -27,7 +27,7 @@
 		    	<? endif; ?>
 		        <? endforeach; ?>
 		        <? if ($_COOKIE['admin'] == $token): ?>
-		        <li class="admin"><a href="admin/edit.php" class="admin">Admin</a></li>
+		        <li class="admin"><a href="admin/edit/" class="admin">Admin</a></li>
 		    	<? endif; ?>
 		    </ul>
 		</div>
