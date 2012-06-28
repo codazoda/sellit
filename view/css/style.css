@@ -7,7 +7,7 @@ html, body {
 
 html {
 	font-family: BODY, sans-serif;
-	background: url("images/grad-top.png") repeat-x #EEE;
+	background: url("view/images/grad-top.png") repeat-x #EEE;
 }
 
 body {
@@ -153,7 +153,7 @@ p.caption {
 }
 
 .button {
-	background: url(images/grad-button.png);
+	background: url(../images/grad-button.png);
 	-webkit-border-radius: 4px;
 	-moz-border-radius: 4px;
 	border-radius: 4px;
